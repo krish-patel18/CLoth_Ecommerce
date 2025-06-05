@@ -1,13 +1,13 @@
 import { Route, Routes } from "react-router-dom";
 import Home from "./Pages/Ghar"
-import Collection from "./Pages/Collection";
-import Contact from "./Pages/Contact";
-import About from "./Pages/About";
-import Product from "./Pages/Product";
-import Carts from "./Pages/Carts";
-import Login from "./Pages/LoginPagw";
-import PlaceOrder from "./pages/PlaceOrder";
-import Orders from "./pages/Orders";
+import Collection from "./Pages/Collections";
+import Contact from "./Pages/Contacts";
+import About from "./Pages/Abouts";
+import Product from "./Pages/Productitems";
+import Carts from "./Pages/Cartss";
+import Login from "./Pages/LoginPages";
+import PlaceOrder from "./Pages/PlaceOrderss";
+import Orders from "./Pages/Ordersss";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import "./App.css";
